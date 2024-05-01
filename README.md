@@ -1,2 +1,4 @@
 # React.Todo
-Todolist
+To-do list
+
+It can add a new event or delete it.
